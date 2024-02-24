@@ -382,3 +382,6 @@
 <script src="<?php echo base_url() ?>js/myscripts.js"></script>
 <script src="<?php echo base_url() ?>js/popper.min.js"></script>
 </html>
+
+
+<!-- salam hahzade -->
