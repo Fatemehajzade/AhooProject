@@ -676,7 +676,7 @@ public function password_check($str) {
 
 
 //        header('Content-Type: application/json');
-        var_dump($result);
+        // var_dump($result);
     }
  
  }
